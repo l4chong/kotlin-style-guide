@@ -1,5 +1,17 @@
 # Kotlin Style Guide
 
+This style guide complements the
+[Official Standard Coding Conventions](https://kotlinlang.org/docs/reference/coding-conventions.html).
+It goes into more detail and makes some opinionated decisions.
+
+The goals are, in order of importance:
+
+**Readability**: A new reader should be able to figure out what the code does without any trouble.  
+
+**Consistency**: Code style should should not change between files or projects.
+
+**Brevity**: Code that is short and meaningful makes it much easier for readers to find what they need.
+
 ## Variable Declarations
 
 ### lateinit
