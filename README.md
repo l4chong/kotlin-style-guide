@@ -215,7 +215,7 @@ list.filter { it > 10 }
 list.filter({ it > 10 })
 ```
 
-_Why:_ We debated this one for a while, but having `({` and `})` everywhere is just clutter, and we should get used to the new notation
+_Why:_ Having `({` and `})` everywhere is just clutter, and we should get used to the new notation
 
 ### Ends with Single Lambda Parameter
 
